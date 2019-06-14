@@ -1,0 +1,20 @@
+1)	O que é o insumo, ou entrada, em um sistema de informação?
+Sao os insumos que o sistema precisa para atingir seu objetivo. Sao os elementos para captaçao ou coleta de fontes de dados brutos.
+
+2)	Onde podemos coletar dados para sistemas? Explique e cite exemplos.
+Ter um sistema apropiado para isso muito util para coletar e apresentar dados valiosos que te ajudarao a identificar problemas em toda a empresa e a implementar as soluçoes corretas para cada situaçao.
+- Revisao de documentos.
+- Entrevistas em profundidade.
+- Métodos de observaçao.
+- Metodo cientifico 
+- Metodo qualitativo
+- Metodo quantitativo
+- Metodo fenomenologico 
+- Metodo dedutivo
+
+3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
+BACK END - Suas principais atividades sao programar, codificar e testar os projetos criados. A manutençao dos sistemas tambem faz parte das suas tarefas diarias.
+FRONT END - É o profissional resposavel por projetar, construir e otimizar as interfaces de um projeto web;
+FULL STACK - É o profissional que programam o backend usando uma linguagem como c#, Java ou PHP(alem de bancos de dados), quanto constroem e mantem o frontend com HTML, CSS, JavaScript(alem dos frameworks) atua nas duas frentes "Backend" e "frontend".
+
+4)	Qual a diferença entre frontend e designer? 
